@@ -1,0 +1,6 @@
+# downloaded GloVe artifacts
+embeddings_*_temp.npy
+word_index_dict_*_temp.pkl
+*.npy
+*.pkl
+.streamlit/secrets.toml
